@@ -1,3 +1,5 @@
 NoMoreSilence_Documents/
 NoMoreSilence_SampleDocuments/
 README.txt
+NoMoreSilence_ProjectData.csv NoMoreSilence_ProjectData.tsv
+create_sample.py gather_files.py
